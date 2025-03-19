@@ -4,8 +4,8 @@ const readline = require('readline');
 
 // OBS WebSocket connection details
 const host = 'localhost';
-const port = 4455; // Match the port in OBS WebSocket settings
-const password = 'Nakatawe123'; // Match the password in OBS WebSocket settings
+const port = "write the port of the OBS websocket"; // Match the port in OBS WebSocket settings
+const password = 'put you password'; // Match the password in OBS WebSocket settings
 
 // Create an interface for reading user input
 const rl = readline.createInterface({
